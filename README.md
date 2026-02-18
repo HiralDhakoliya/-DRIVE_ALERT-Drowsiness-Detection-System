@@ -72,7 +72,8 @@ The system utilizes a compact hardware stack for maximum efficiency:
 ## 🖼 Project Visuals
 
 - **Presentation Slides:** [`assets/5129.pptx`](assets/5129.pptx)  
-- **Research Poster:** [`assets/Drive alert.jpg`](assets/Drive alert.jpg)  
+- **Research Poster:**[assets/Drive_alert.jpg](assets/Drive_alert.jpg)
+ 
 
 ---
 
